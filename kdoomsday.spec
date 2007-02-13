@@ -1,5 +1,5 @@
 Summary:	KDoomsDay - A countdown applet for the KDE panel
-Summary(pl.UTF-8):   KDoomsDay - aplet do odliczania dla panelu KDE
+Summary(pl.UTF-8):	KDoomsDay - aplet do odliczania dla panelu KDE
 Name:		kdoomsday
 Version:	0.2
 Release:	0.1
